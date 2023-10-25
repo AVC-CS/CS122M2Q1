@@ -1,3 +1,4 @@
+
 def split(number):
     """
     ########################################
@@ -9,7 +10,7 @@ def split(number):
 
 def main():
     # number = list(map(int, input().split()))
-    number = [35, 5, 10, 20, 40, 15]
+    number = [65, 15, 10, 20, 40, 55]
     number = split(number)
     print(number)
 
